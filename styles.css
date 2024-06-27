@@ -1,0 +1,14 @@
+.displayflex{
+    display: flex;
+}
+.input-container {
+    display: flex;
+    
+}
+
+.currency-symbol {
+    margin-right: 1px; /* Ajusta este valor según sea necesario */
+    font-size: 0.8em; /* Reduce el tamaño del símbolo */
+    vertical-align:super; /* Eleva el símbolo */
+}
+fieldset{margin: 5px;}
